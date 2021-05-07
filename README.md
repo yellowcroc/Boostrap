@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Roni Allen - A little about me</title>
+  <title>David Dang - A little about me</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -30,9 +30,8 @@
     <div class="row featurette">
       <div class="col-md-7">
         <h2 class="featurette-heading">A LITTLE ABOUT <span class="text-muted">ME.</span></h2>
-        <p class="lead">Welcome to my Home page. I am a part time instructor at CSULB. I also graduated from CSULB in the Business Department. I have been here for about 22 years. I started out teaching CECS 110 and from that course I developed CECS 200 because of the interest is strictly Web design. The course has been added as part of the requirements for a minor and certificate in Web Technology and Applications along with the CECS 110 course. I completed my Masters degree in Educational Technology in 2006, which I completed completely online.
-
-I am a single mom and have a son who is 22 yrs old and a daughter who is 16. My son is a HB state lifeguard hoping to be a firefighter someday and my daughter is in 11th grade not sure what she wants to do after high school. They both keep me busy along with our 2 dogs and 2 cats</p>
+        <p class="lead">Welcome to my Home page. I am a student at CSULB. My major is Computer Science and yes.... it is tough. But enough of college, lets talk about me (I' not egotistic). The things I like: working out, bike riding, hanging with the homies, listening to music, and just overall vibin'. I also like talking to people but with the whole pandemic and all, it wasn't possible this year or even maybe next year but hopefully I get to meet you guys. Anyways, that's most about me and hope to see y'all soon.
+</p>
       </div>
       <div class="col-md-5">
         <img src="allenr6x6.jpg" alt="Roni Allen" width="400" height="400">
@@ -63,9 +62,10 @@ I am a single mom and have a son who is 22 yrs old and a daughter who is 16. My 
    <hr class="featurette-divider">    
     
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <p>Created by <a href="mailto:r.allen@csulb.edu">Roni Allen</a> -  <a href="https://www.csulb.edu/college-of-engineering/roni-allen" target="_blank">CECS PT Faculty</a></p><p>Last updated on 4-29-21</p>
+  <p>Created by <a href="mailto:David.Dang01@student.csulb.edu">David Dang</a> -  <a href="https://www.csulb.edu/college-of-engineering/roni-allen" target="_blank">CECS PT Faculty</a></p><p>Last updated on 4-29-21</p>
     <i class="fas fa-chalkboard-teacher" style="font-size:60px;color:gold;text-shadow:2px 2px 4px #000000;"></i>
 </div>
     </div>
 </body>
 </html>
+
